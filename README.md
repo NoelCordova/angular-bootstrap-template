@@ -2,7 +2,7 @@
 
 ## Instructions
 
-Copy the files of the table except the `.git` folder.
+Copy the files of the table except the `.git` folder and the `README.md` file.
 
 <br>
 
