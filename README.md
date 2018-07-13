@@ -2,7 +2,9 @@
 
 ## Instructions
 
-Copy the files of the table except the `.git` folder and the `README.md` file.
+* Copy the files of the table except the `.git` folder and the `README.md` file.
+* Search for `project-name` and replace for the current name of the project to develop.
+* Search for `repo_name` and replace for the current repository name.
 
 <br>
 
